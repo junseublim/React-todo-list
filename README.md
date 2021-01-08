@@ -1,5 +1,12 @@
 # 리액트를 활용해 만든 TodoList App
 
+## Usage
+
+```
+$ yarn install
+$ yarn start
+```
+
 ## 컴포넌트 최적화
 
 ### React.memo
